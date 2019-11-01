@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="60.860271"
-     inkscape:cy="83.633441"
+     inkscape:zoom="2"
+     inkscape:cx="254.04835"
+     inkscape:cy="29.965182"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="false">
     <sodipodi:guide
        position="24.715711,28.797711"
        orientation="1,0"
@@ -222,7 +223,7 @@
        aria-label="W"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text4686"
-       transform="translate(0.09161842,-0.18973459)">
+       transform="rotate(-45,31.044849,139.34702)">
       <path
          d="m 29.104168,136.98072 h 0.888835 l 0.368625,3.77583 0.444417,-2.44257 h 0.844048 l 0.516765,2.44257 0.289388,-3.77583 h 0.895725 l -0.592557,5.14353 h -0.947401 l -0.585666,-2.70095 -0.54777,2.70095 h -0.940512 z"
          style="font-size:7.05555534px;stroke-width:0.26458332"
@@ -233,7 +234,7 @@
        aria-label="F"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text4690"
-       transform="translate(-0.04923162,-7.7458638e-4)">
+       transform="rotate(45,46.664746,139.30371)">
       <path
          d="M 48.290396,137.68748 H 46.10276 v 1.10933 h 1.991265 v 0.89572 H 46.10276 v 2.24276 h -1.016303 v -5.14353 h 3.203939 z"
          style="font-size:7.05555534px;stroke-width:0.26458332"
@@ -244,7 +245,7 @@
        aria-label="T"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text4694"
-       transform="translate(0.0140894,-0.11771457)">
+       transform="translate(0.0140894,1.9989521)">
       <path
          d="M 39.484733,134.37575 H 38.46843 v -4.2547 h -1.305691 v -0.88883 h 3.627685 v 0.88883 h -1.305691 z"
          style="font-size:7.05555534px;stroke-width:0.26458332"
