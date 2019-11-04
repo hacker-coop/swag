@@ -14,4 +14,4 @@ Zur Abstimmung stehen:
 | ``β.svg`` | Einhornlogo β | Logo |
 | ``β¹.svg`` | Schriftzug aus Einhornlogo β | Schriftzug |
 | ``γ.svg`` | Einhornlogo γ | Logo |
-| ``γ¹.svg | Schriftzug aus Einhornlogo γ | Schriftzug |
+| ``γ¹.svg`` | Schriftzug aus Einhornlogo γ | Schriftzug |
