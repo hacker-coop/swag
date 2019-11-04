@@ -18,7 +18,7 @@
    sodipodi:docname="γ.svg"
    enable-background="new">
   <title
-     id="title868">Werkskooperative der Technik Freund*Innen</title>
+     id="title868">Werkkooperative der Technikfreundinnen e.G.</title>
   <defs
      id="defs2">
     <filter
@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="260.4288"
-     inkscape:cy="78.915095"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="301.33229"
+     inkscape:cy="-61.244099"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -105,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Werkskooperative der Technik Freund*Innen</dc:title>
+        <dc:title>Werkkooperative der Technikfreundinnen e.G.</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
         <dc:creator>
@@ -279,15 +279,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.58022356px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18950555"
-       x="97.863228"
-       y="141.32115"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.78388214px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21959706"
+       x="98.908051"
+       y="141.21429"
        id="text851"><tspan
          sodipodi:role="line"
          id="tspan849"
-         x="97.863228"
-         y="141.32115"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';stroke-width:0.18950555">.coop</tspan></text>
+         x="98.908051"
+         y="141.21429"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';stroke-width:0.21959706">eG</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
