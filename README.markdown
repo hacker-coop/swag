@@ -1,6 +1,7 @@
  Logos und Merch
 =====================
 
-Logos und Merch der Werkskooperative der Technik Freund\*Innen
+Logos und Merch der Werkkooperative der Technikfreundinnen e.G.
+(WTF eG)
 
 
