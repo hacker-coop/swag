@@ -9,6 +9,7 @@ Zur Abstimmung stehen:
 
 | Logo | Beschreibung | Was |
 | ---- | ------------ | --- |
-| ``α.svg`` | Einhornlogo | Logo |
-| ``α¹.svg`` | Schriftzug aus Einhornlogo | Schriftzug |
- 
+| ``α.svg`` | Einhornlogo α | Logo |
+| ``α¹.svg`` | Schriftzug aus Einhornlogo α | Schriftzug |
+| ``β.svg`` | Einhornlogo β | Logo |
+| ``β¹.svg`` | Schriftzug aus Einhornlogo β | Schriftzug | 
