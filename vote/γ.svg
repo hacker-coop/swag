@@ -15,9 +15,23 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="γ.svg">
+   sodipodi:docname="γ.svg"
+   enable-background="new">
+  <title
+     id="title868">Werkskooperative der Technik Freund*Innen</title>
   <defs
-     id="defs2" />
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter862">
+      <feBlend
+         inkscape:collect="always"
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend864" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="198.98497"
-     inkscape:cy="285.04916"
+     inkscape:zoom="1"
+     inkscape:cx="260.4288"
+     inkscape:cy="78.915095"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,9 +51,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:window-width="1532"
+     inkscape:window-width="1276"
      inkscape:window-height="681"
-     inkscape:window-x="1024"
+     inkscape:window-x="1280"
      inkscape:window-y="731"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -91,15 +105,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Werkskooperative der Technik Freund*Innen</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>L3D</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-14.27496,-17.33273)">
+     transform="translate(-14.27496,-17.33273)"
+     style="filter:url(#filter862)">
     <path
        sodipodi:nodetypes="cccccccccccccc"
        inkscape:connector-curvature="0"
@@ -231,7 +266,7 @@
          sodipodi:nodetypes="ccccccccccscccccccccssccccccccc" />
       <path
          sodipodi:nodetypes="ccccccccc"
-         d="m 43.670867,143.3973 h -3.405428 v 6.41944 H 38.85578 v -6.41944 h -6.051261 v -1.15812 h 10.866348 z"
+         d="m 43.670867,143.3973 h -3.405428 v 6.41944 H 38.85578 v -6.41944 h -5.560731 l -0.49053,-1.15812 h 10.866348 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26201829"
          id="path854"
          inkscape:connector-curvature="0" />
