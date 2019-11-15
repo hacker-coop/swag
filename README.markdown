@@ -20,3 +20,9 @@ Ausgewertet am 2019-11-15
 ### Textlogo
 
 ![Textlogo](textlogo_wtf.svg.png "WTF e.G.")
+
+ Siebdruck
+------------
+```
+Siebdruck motive gibt es im Ordner 'siebdruck/'
+```
