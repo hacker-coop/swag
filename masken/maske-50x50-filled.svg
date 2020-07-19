@@ -7,59 +7,59 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   enable-background="new"
-   sodipodi:docname="maske-50x50-filled.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 50.000004 50"
+   width="50mm"
    height="50mm"
-   width="50mm">
+   viewBox="0 0 50.000004 50"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="maske-50x50-filled.svg"
+   enable-background="new">
   <title
      id="title868">Werkkooperative der Technikfreundinnen e.G.</title>
   <defs
      id="defs2">
     <filter
-       id="filter862"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter862">
       <feBlend
-         id="feBlend864"
-         in2="BackgroundImage"
+         inkscape:collect="always"
          mode="darken"
-         inkscape:collect="always" />
+         in2="BackgroundImage"
+         id="feBlend864" />
     </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     units="mm"
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     inkscape:window-maximized="0"
-     inkscape:window-y="26"
-     inkscape:window-x="0"
-     inkscape:window-height="1385"
-     inkscape:window-width="2556"
-     inkscape:snap-object-midpoints="true"
-     inkscape:guide-bbox="true"
-     showguides="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:object-nodes="true"
-     showgrid="false"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="82.963781"
-     inkscape:cx="150.86974"
-     inkscape:zoom="4.0000001"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="87.256186"
+     inkscape:cy="72.702264"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="2556"
+     inkscape:window-height="1385"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="mm"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -93,22 +93,22 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="filter:url(#filter862)"
-     transform="translate(-14.27496,-17.33273)"
-     id="layer1"
+     inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     inkscape:label="Ebene 1">
+     id="layer1"
+     transform="translate(-14.27496,-17.33273)"
+     style="filter:url(#filter862)">
     <path
-       d="m 55.290854,40.506593 0.967124,-0.06446 -0.808055,-1.392942 1.259377,1.199519 0.709224,-1.482925 -1.676347,-3.932976 -1.152492,-4.0861 -0.229183,-0.244103 8.796299,-9.080602 -10.045192,7.750418 -1.245992,-1.327087 -1.163651,-0.243111 0.160862,-0.780443 -0.227805,-1.501602 -0.862075,1.296156 -0.05439,0.824364 -1.004159,-0.280416 -3.658949,2.724064 -5.570276,8.330542 -5.650889,-8.334625 -3.649193,-2.729279 -1.026958,0.200549 -0.01653,-0.723195 -0.8338,-1.371311 -0.278393,1.532494 0.171365,0.745034 -1.174153,0.27852 -1.245991,1.327087 -9.915982,-7.618355 8.667087,8.94854 -0.22169,0.300841 -1.159985,4.029363 -1.676348,3.932975 0.709223,1.482925 1.166981,-1.033359 -0.715654,1.226782 0.967123,0.06446 4.796042,-4.963902 1.877122,1.175996 2.188884,9.145453 -16.158622,17.652022 6.132379,-1.634605 17.019777,-12.477034 16.297908,12.477034 6.79691,1.648221 -16.141981,-17.655281 2.140803,-9.146307 1.944207,-1.153241 z"
-       style="fill:#00ffff;stroke:none;stroke-width:0.0982946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="wtf_l3d_1" />
+       id="wtf_l3d_1"
+       style="fill:#0099ff;stroke:none;stroke-width:0.0982946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 55.290854,40.506593 0.967124,-0.06446 -0.808055,-1.392942 1.259377,1.199519 0.709224,-1.482925 -1.676347,-3.932976 -1.152492,-4.0861 -0.229183,-0.244103 8.796299,-9.080602 -10.045192,7.750418 -1.245992,-1.327087 -1.163651,-0.243111 0.160862,-0.780443 -0.227805,-1.501602 -0.862075,1.296156 -0.05439,0.824364 -1.004159,-0.280416 -3.658949,2.724064 -5.570276,8.330542 -5.650889,-8.334625 -3.649193,-2.729279 -1.026958,0.200549 -0.01653,-0.723195 -0.8338,-1.371311 -0.278393,1.532494 0.171365,0.745034 -1.174153,0.27852 -1.245991,1.327087 -9.915982,-7.618355 8.667087,8.94854 -0.22169,0.300841 -1.159985,4.029363 -1.676348,3.932975 0.709223,1.482925 1.166981,-1.033359 -0.715654,1.226782 0.967123,0.06446 4.796042,-4.963902 1.877122,1.175996 2.188884,9.145453 -16.158622,17.652022 6.132379,-1.634605 17.019777,-12.477034 16.297908,12.477034 6.79691,1.648221 -16.141981,-17.655281 2.140803,-9.146307 1.944207,-1.153241 z" />
     <g
-       transform="matrix(0.28046321,0,0,0.28046321,31.607987,44.681581)"
-       id="layer2-5" />
+       id="layer2-5"
+       transform="matrix(0.28046321,0,0,0.28046321,31.607987,44.681581)" />
   </g>
   <g
-     transform="translate(0,89.10534)"
-     inkscape:label="font"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer" />
+     inkscape:label="font"
+     transform="translate(0,89.10534)" />
 </svg>
