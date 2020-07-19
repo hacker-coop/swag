@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   sodipodi:docname="maske-50x50-filled.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 50.000004 50"
+   height="50mm"
+   width="50mm">
+  <title
+     id="title868">Werkkooperative der Technikfreundinnen e.G.</title>
+  <defs
+     id="defs2">
+    <filter
+       id="filter862"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend864"
+         in2="BackgroundImage"
+         mode="darken"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     units="mm"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="26"
+     inkscape:window-x="0"
+     inkscape:window-height="1385"
+     inkscape:window-width="2556"
+     inkscape:snap-object-midpoints="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="82.963781"
+     inkscape:cx="150.86974"
+     inkscape:zoom="4.0000001"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Werkkooperative der Technikfreundinnen e.G.</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>L3D</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="filter:url(#filter862)"
+     transform="translate(-14.27496,-17.33273)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       d="m 55.290854,40.506593 0.967124,-0.06446 -0.808055,-1.392942 1.259377,1.199519 0.709224,-1.482925 -1.676347,-3.932976 -1.152492,-4.0861 -0.229183,-0.244103 8.796299,-9.080602 -10.045192,7.750418 -1.245992,-1.327087 -1.163651,-0.243111 0.160862,-0.780443 -0.227805,-1.501602 -0.862075,1.296156 -0.05439,0.824364 -1.004159,-0.280416 -3.658949,2.724064 -5.570276,8.330542 -5.650889,-8.334625 -3.649193,-2.729279 -1.026958,0.200549 -0.01653,-0.723195 -0.8338,-1.371311 -0.278393,1.532494 0.171365,0.745034 -1.174153,0.27852 -1.245991,1.327087 -9.915982,-7.618355 8.667087,8.94854 -0.22169,0.300841 -1.159985,4.029363 -1.676348,3.932975 0.709223,1.482925 1.166981,-1.033359 -0.715654,1.226782 0.967123,0.06446 4.796042,-4.963902 1.877122,1.175996 2.188884,9.145453 -16.158622,17.652022 6.132379,-1.634605 17.019777,-12.477034 16.297908,12.477034 6.79691,1.648221 -16.141981,-17.655281 2.140803,-9.146307 1.944207,-1.153241 z"
+       style="fill:#00ffff;stroke:none;stroke-width:0.0982946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="wtf_l3d_1" />
+    <g
+       transform="matrix(0.28046321,0,0,0.28046321,31.607987,44.681581)"
+       id="layer2-5" />
+  </g>
+  <g
+     transform="translate(0,89.10534)"
+     inkscape:label="font"
+     id="layer2"
+     inkscape:groupmode="layer" />
+</svg>
