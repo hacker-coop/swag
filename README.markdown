@@ -1,17 +1,10 @@
  Logos und Merch
 =====================
 
-Logos und Merch der Werkkooperative der Technikfreundinnen e.G.
+Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i.g.
 (WTF eG)
 
- Aktueller Favorit des Entwurfes \*
--------------------
-
-```
-* Basierend an einem Forumthread.
-https://meta.vebit.xyz/t/logo-der-werkkooperative-der-technikfreundinnen/139/13
-Ausgewertet am 2019-11-15
-```
+![Webseitenlogo](webseite.svg.png "WTF e.G.")
 
 ### Einhornlogo
 
@@ -26,3 +19,5 @@ Ausgewertet am 2019-11-15
 ```
 Siebdruck motive gibt es im Ordner 'siebdruck/'
 ```
+
+**Lizenz:** `MIT License`
