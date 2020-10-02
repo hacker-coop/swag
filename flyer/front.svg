@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="front.svg"
    id="svg66"
    viewBox="0 0 303.00747 216.00533"
@@ -4960,14 +4960,14 @@
   <sodipodi:namedview
      inkscape:current-layer="layer4"
      inkscape:window-maximized="0"
-     inkscape:window-y="26"
-     inkscape:window-x="1920"
-     inkscape:cy="708.25406"
-     inkscape:cx="1041.5772"
-     inkscape:zoom="4.182864"
+     inkscape:window-y="22"
+     inkscape:window-x="0"
+     inkscape:cy="659.79887"
+     inkscape:cx="719.1433"
+     inkscape:zoom="0.9014792"
      showgrid="false"
      id="namedview68"
-     inkscape:window-height="1385"
+     inkscape:window-height="1392"
      inkscape:window-width="2556"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -5009,6 +5009,10 @@
        position="290.81432,34.954218"
        orientation="0,-1"
        id="guide5726" />
+    <sodipodi:guide
+       position="210.0308,57.029442"
+       orientation="0,-1"
+       id="guide5636" />
   </sodipodi:namedview>
   <title
      id="title2">Werkkooperative der Technikfreundinnen e.G.</title>
@@ -17236,24 +17240,24 @@
          id="tspan26852">Wirtschaften</tspan></text>
     <text
        id="text26893"
-       y="157.0863"
-       x="248.63884"
-       style="font-style:normal;font-weight:normal;font-size:8.63782px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.215945"
+       y="154.71492"
+       x="248.62408"
+       style="font-style:normal;font-weight:normal;font-size:7.58353px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.189588"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;stroke-width:0.215945"
-         y="157.0863"
-         x="248.63884"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;stroke-width:0.189588"
+         y="154.71492"
+         x="248.62408"
          id="tspan26891"
          sodipodi:role="line">Werkkooperative der</tspan><tspan
          id="tspan26895"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;stroke-width:0.215945"
-         y="168.27431"
-         x="248.63884"
-         sodipodi:role="line">Technikfreundinnen e.G.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;stroke-width:0.189588"
+         y="164.53737"
+         x="248.62408"
+         sodipodi:role="line">Technikfreundinnen e.G. i.G.</tspan><tspan
          id="tspan26897"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;stroke-width:0.215945"
-         y="179.07158"
-         x="248.63884"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;stroke-width:0.189588"
+         y="174.01678"
+         x="248.62408"
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
