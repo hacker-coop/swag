@@ -14,7 +14,7 @@
    viewBox="0 0 303.00747 216.00533"
    id="svg66"
    sodipodi:docname="back.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs70">
     <clipPath
@@ -10796,16 +10796,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2556"
-     inkscape:window-height="1385"
+     inkscape:window-width="1916"
+     inkscape:window-height="1148"
      id="namedview68"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="124.80055"
-     inkscape:cy="654.31362"
-     inkscape:window-x="1920"
-     inkscape:window-y="26"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.66789952"
+     inkscape:cx="875.81086"
+     inkscape:cy="262.26356"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer4">
     <sodipodi:guide
        id="guide26811"
@@ -10832,7 +10832,7 @@
        orientation="1,0"
        position="5.8581594,63.042271" />
     <sodipodi:guide
-       position="222.4539,43.505322"
+       position="226.30348,43.393232"
        orientation="0,-1"
        id="guide5977" />
     <sodipodi:guide
@@ -10844,13 +10844,29 @@
        orientation="0,-1"
        id="guide5981" />
     <sodipodi:guide
-       position="171.75163,57.724412"
+       position="68.918229,57.905099"
        orientation="0,-1"
        id="guide5983" />
     <sodipodi:guide
        position="199.81562,150.70978"
        orientation="0,-1"
        id="guide5985" />
+    <sodipodi:guide
+       position="58.020967,144.66466"
+       orientation="0,-1"
+       id="guide5986" />
+    <sodipodi:guide
+       position="207.9131,38.792045"
+       orientation="1,0"
+       id="guide5988" />
+    <sodipodi:guide
+       position="109.45763,32.000253"
+       orientation="1,0"
+       id="guide5990" />
+    <sodipodi:guide
+       position="8.9555566,30.790793"
+       orientation="1,0"
+       id="guide5992" />
   </sodipodi:namedview>
   <title
      id="title2">Werkkooperative der Technikfreundinnen e.G.</title>
@@ -18551,7 +18567,7 @@
        x="203.34938"
        y="55.555969"
        ry="7.3002243"
-       transform="matrix(0.55476837,0,0,0.55476837,-83.613247,-21.136559)" />
+       transform="matrix(0.55476837,0,0,0.55476837,-83.613246,-21.136559)" />
     <g
        transform="matrix(1.4881884,0,0,1.4881884,220.82588,218.14646)"
        inkscape:label="font"
@@ -18561,12 +18577,12 @@
        inkscape:transform-center-x="0.21816181"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.35752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208938"
-       x="54.541279"
-       y="71.534798"
+       x="54.541275"
+       y="71.339287"
        id="text30671-2"><tspan
          sodipodi:role="line"
-         x="54.541279"
-         y="71.534798"
+         x="54.541275"
+         y="71.339287"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;fill:#2a7fff;stroke-width:0.208938"
          id="tspan30714-4">WTF ?</tspan></text>
     <text
@@ -18622,7 +18638,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.124484"
          id="tspan7509" /></text>
     <rect
-       transform="matrix(0.55476837,0,0,0.55476837,-83.613247,78.34928)"
+       transform="matrix(0.55476837,0,0,0.55476837,-83.613246,78.34928)"
        ry="7.3002243"
        y="55.555969"
        x="203.34938"
@@ -18637,16 +18653,16 @@
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.208938;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
     <text
        id="text6335"
-       y="172.07887"
-       x="54.541279"
+       y="172.6178"
+       x="54.564259"
        style="font-style:normal;font-weight:normal;font-size:8.35752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208938"
        xml:space="preserve"
        inkscape:transform-center-x="0.21816181"
        inkscape:transform-center-y="-0.55119854"><tspan
          id="tspan6333"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;fill:#2a7fff;stroke-width:0.208938"
-         y="172.07887"
-         x="54.541279"
+         y="172.6178"
+         x="54.564259"
          sodipodi:role="line">Zusammen $Dinge tun</tspan></text>
     <text
        inkscape:transform-center-y="-0.24256077"
@@ -18699,7 +18715,7 @@
     <g
        style="enable-background:new"
        id="g6394"
-       transform="matrix(1.4881884,0,0,1.4881884,321.37008,186.3409)">
+       transform="matrix(1.4881884,0,0,1.4881884,319.43681,186.3409)">
       <g
          style="filter:url(#filter886)"
          transform="translate(-14.27496,-85.06607)"
@@ -18769,16 +18785,16 @@
     </g>
     <text
        id="text6398"
-       y="71.534798"
-       x="155.08536"
+       y="71.506752"
+       x="152.68837"
        style="font-style:normal;font-weight:normal;font-size:8.35752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208938"
        xml:space="preserve"
        inkscape:transform-center-x="0.21816181"
        inkscape:transform-center-y="-0.55119854"><tspan
          id="tspan6396"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;fill:#2a7fff;stroke-width:0.208938"
-         y="71.534798"
-         x="156.10078"
+         y="71.506752"
+         x="153.7038"
          sodipodi:role="line">Plötzlich Genosse /o\ </tspan></text>
     <text
        inkscape:transform-center-y="-0.24256077"
@@ -18821,18 +18837,18 @@
        x="203.34938"
        y="55.555969"
        ry="7.3002243"
-       transform="matrix(0.55476837,0,0,0.55476837,16.930897,78.34928)" />
+       transform="matrix(0.55476837,0,0,0.55476837,14.997684,78.34928)" />
     <text
        inkscape:transform-center-y="-0.55119854"
        inkscape:transform-center-x="0.21816181"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.35752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208938"
-       x="155.08536"
-       y="172.07887"
+       x="152.94745"
+       y="172.55312"
        id="text6416"><tspan
          sodipodi:role="line"
-         x="155.08536"
-         y="172.07887"
+         x="152.94745"
+         y="172.55312"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;fill:#2a7fff;stroke-width:0.208938"
          id="tspan6414">c01ns &amp; €</tspan></text>
     <text
@@ -19145,24 +19161,24 @@
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.208938;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        fill="currentColor"
-       d="m 173.03495,133.76311 c 0,10.09278 -8.18178,18.27456 -18.27457,18.27456 -10.0928,0 -18.27457,-8.18178 -18.27457,-18.27456 0,-10.0928 8.18177,-18.27457 18.27457,-18.27457 10.09279,0 18.27457,8.18177 18.27457,18.27457 z M 162.597,131.15972 c 0.3638,-2.43163 -1.48783,-3.73884 -4.01967,-4.61087 l 0.82132,-3.29399 -2.00526,-0.49967 -0.79959,3.20718 c -0.52716,-0.13139 -1.06862,-0.25526 -1.60661,-0.37802 l 0.80533,-3.22826 -2.00416,-0.49968 -0.82184,3.29282 c -0.43638,-0.0994 -0.86472,-0.19763 -1.28047,-0.30095 l 0.002,-0.0103 -2.7655,-0.69046 -0.53343,2.14152 c 0,0 1.48783,0.34095 1.45644,0.36202 0.81219,0.20272 0.95897,0.74012 0.93437,1.16611 l -0.93556,3.75255 c 0.056,0.0143 0.12851,0.0349 0.20846,0.0668 -0.0668,-0.0166 -0.13824,-0.0348 -0.21192,-0.0525 l -1.31135,5.25673 c -0.0994,0.24671 -0.35127,0.61677 -0.91896,0.47632 0.02,0.0291 -1.45755,-0.3638 -1.45755,-0.3638 l -0.99552,2.29516 2.60959,0.65044 c 0.48545,0.12166 0.96125,0.24899 1.42953,0.36888 l -0.82987,3.33165 2.00298,0.49967 0.82184,-3.29627 a 76.503297,76.503297 0 0 0 1.59807,0.41464 l -0.81904,3.2808 2.00527,0.49967 0.82986,-3.32538 c 3.41942,0.64706 5.99075,0.38606 7.073,-2.70633 0.87217,-2.48991 -0.0434,-3.92615 -1.84249,-4.86273 1.31018,-0.30196 2.29714,-1.16367 2.56044,-2.94374 z m -4.58169,6.42402 c -0.61971,2.48991 -4.8124,1.14386 -6.17172,0.80637 l 1.1012,-4.41383 c 1.35923,0.33919 5.71816,1.01078 5.07052,3.60746 z m 0.62023,-6.45998 c -0.56541,2.26486 -4.05511,1.11415 -5.1871,0.83208 l 0.99832,-4.00324 c 1.13207,0.28208 4.77762,0.80858 4.18878,3.17116 z"
+       d="m 171.29933,133.76311 c 0,10.09278 -8.18178,18.27456 -18.27457,18.27456 -10.0928,0 -18.27457,-8.18178 -18.27457,-18.27456 0,-10.0928 8.18177,-18.27457 18.27457,-18.27457 10.09279,0 18.27457,8.18177 18.27457,18.27457 z m -10.43795,-2.60339 c 0.3638,-2.43163 -1.48783,-3.73884 -4.01967,-4.61087 l 0.82132,-3.29399 -2.00526,-0.49967 -0.79959,3.20718 c -0.52716,-0.13139 -1.06862,-0.25526 -1.60661,-0.37802 l 0.80533,-3.22826 -2.00416,-0.49968 -0.82184,3.29282 c -0.43638,-0.0994 -0.86472,-0.19763 -1.28047,-0.30095 l 0.002,-0.0103 -2.7655,-0.69046 -0.53343,2.14152 c 0,0 1.48783,0.34095 1.45644,0.36202 0.81219,0.20272 0.95897,0.74012 0.93437,1.16611 l -0.93556,3.75255 c 0.056,0.0143 0.12851,0.0349 0.20846,0.0668 -0.0668,-0.0166 -0.13824,-0.0348 -0.21192,-0.0525 l -1.31135,5.25673 c -0.0994,0.24671 -0.35127,0.61677 -0.91896,0.47632 0.02,0.0291 -1.45755,-0.3638 -1.45755,-0.3638 l -0.99552,2.29516 2.60959,0.65044 c 0.48545,0.12166 0.96125,0.24899 1.42953,0.36888 l -0.82987,3.33165 2.00298,0.49967 0.82184,-3.29627 a 76.503297,76.503297 0 0 0 1.59807,0.41464 l -0.81904,3.2808 2.00527,0.49967 0.82986,-3.32538 c 3.41942,0.64706 5.99075,0.38606 7.073,-2.70633 0.87217,-2.48991 -0.0434,-3.92615 -1.84249,-4.86273 1.31018,-0.30196 2.29714,-1.16367 2.56044,-2.94374 z m -4.58169,6.42402 c -0.61971,2.48991 -4.8124,1.14386 -6.17172,0.80637 l 1.1012,-4.41383 c 1.35923,0.33919 5.71816,1.01078 5.07052,3.60746 z m 0.62023,-6.45998 c -0.56541,2.26486 -4.05511,1.11415 -5.1871,0.83208 l 0.99832,-4.00324 c 1.13207,0.28208 4.77762,0.80858 4.18878,3.17116 z"
        id="path6778" />
     <text
        inkscape:transform-center-y="-0.55119854"
        inkscape:transform-center-x="0.21816181"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.35752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208938"
-       x="248.2209"
-       y="58.305302"
+       x="252.72874"
+       y="58.60638"
        id="text6919"><tspan
          sodipodi:role="line"
-         x="248.2209"
-         y="58.305302"
+         x="252.72874"
+         y="58.60638"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;fill:#2a7fff;stroke-width:0.208938"
          id="tspan6917">Arbyten</tspan></text>
     <text
        id="text6931"
-       y="67.849052"
+       y="67.929932"
        x="207.59053"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0919448"
        xml:space="preserve"
@@ -19170,68 +19186,68 @@
        inkscape:transform-center-y="-0.24256077"><tspan
          id="tspan6929"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="67.849052"
+         y="67.929932"
          x="207.59053"
          sodipodi:role="line">Für andere arbyten macht nicht immer Spaß. Ganz</tspan><tspan
          id="tspan6971"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="72.446304"
+         y="72.527184"
          x="207.59053"
          sodipodi:role="line">für sich allein arbyten oft auch nicht. Wir bieten</tspan><tspan
          id="tspan6973"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="77.043549"
+         y="77.124428"
          x="207.59053"
          sodipodi:role="line">Freelancern die Möglichkeit, gemeinsam etwas zu</tspan><tspan
          id="tspan6975"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="81.6408"
+         y="81.72168"
          x="207.59053"
          sodipodi:role="line">unternehmen. Ganz oder teilweise, in stabilen,</tspan><tspan
          id="tspan6977"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="86.238052"
+         y="86.318932"
          x="207.59053"
          sodipodi:role="line">flexiblen oder temporären Strukturen und Hierarchien.</tspan><tspan
          id="tspan6979"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="90.835304"
+         y="90.916183"
          x="207.59053"
          sodipodi:role="line">Als Angestellte der Genossenschaft, als Minijob, als</tspan><tspan
          id="tspan6981"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="95.432549"
+         y="95.513428"
          x="207.59053"
          sodipodi:role="line">Freelancer, oder gemischt.</tspan><tspan
          id="tspan6969"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="100.0298"
+         y="100.11068"
          x="207.59053"
          sodipodi:role="line">Wir haben auch nichts dagegen, dass unsere </tspan><tspan
          id="tspan6983"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="104.62705"
+         y="104.70793"
          x="207.59053"
          sodipodi:role="line">Mitglieder ausserhalb der Genossenschaft Geld</tspan><tspan
          id="tspan6985"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="109.2243"
+         y="109.30518"
          x="207.59053"
          sodipodi:role="line">verdienen; im Gegenteil. In der Genossenschaft</tspan><tspan
          id="tspan6987"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="113.82155"
+         y="113.90243"
          x="207.59053"
          sodipodi:role="line">können Unternehmen entstehen, die später</tspan><tspan
          id="tspan6989"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
-         y="118.4188"
+         y="118.49968"
          x="207.59053"
          sodipodi:role="line">ausserhalb weiterleben.</tspan></text>
     <text
        id="text6937"
        y="136.09462"
-       x="248.2209"
+       x="252.36937"
        style="font-style:normal;font-weight:normal;font-size:8.35752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208938"
        xml:space="preserve"
        inkscape:transform-center-x="0.21816181"
@@ -19239,46 +19255,46 @@
          id="tspan6935"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;fill:#2a7fff;stroke-width:0.208938"
          y="136.09462"
-         x="248.2209"
+         x="252.36937"
          sodipodi:role="line">Banden bilden</tspan></text>
     <text
        inkscape:transform-center-y="-0.24256077"
        inkscape:transform-center-x="0.096007603"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0919448"
-       x="207.59053"
-       y="144.05081"
+       x="207.5538"
+       y="144.325"
        id="text6951"><tspan
          sodipodi:role="line"
-         x="207.59053"
-         y="144.05081"
+         x="207.5538"
+         y="144.325"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448"
          id="tspan6949">Es gibt auch Aktivitäten, die nicht vor allem dem</tspan><tspan
          id="tspan7011"
          sodipodi:role="line"
-         x="207.59053"
-         y="148.64806"
+         x="207.5538"
+         y="148.92224"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448">Gelderwerb dienen und dennoch einen stabilen</tspan><tspan
          id="tspan7013"
          sodipodi:role="line"
-         x="207.59053"
-         y="153.24532"
+         x="207.5538"
+         y="153.5195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448">Rahmen brauchen. Man kann innerhalb der </tspan><tspan
          id="tspan7015"
          sodipodi:role="line"
-         x="207.59053"
-         y="157.84256"
+         x="207.5538"
+         y="158.11674"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.0919448">Genossenschaft auch Banden bilden.</tspan></text>
     <text
        inkscape:transform-center-y="-0.55119854"
        inkscape:transform-center-x="0.21816181"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.35752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208938"
-       x="248.2209"
+       x="252.20641"
        y="172.60805"
        id="text7019"><tspan
          sodipodi:role="line"
-         x="248.2209"
+         x="252.20641"
          y="172.60805"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;fill:#2a7fff;stroke-width:0.208938"
          id="tspan7017">Finanzierung</tspan></text>
@@ -19326,7 +19342,7 @@
          x="207.59053"
          sodipodi:role="line">Vorstand und Aufsichtsrat.</tspan></text>
     <rect
-       transform="matrix(0.47985652,0,0,0.47985652,131.53727,-19.620658)"
+       transform="matrix(0.47985652,0,0,0.47985652,133.08285,-20.149838)"
        ry="7.3002243"
        y="55.555969"
        x="203.34938"
@@ -19337,7 +19353,7 @@
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.231339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        fill="currentColor"
-       d="m 255.43759,33.150395 c 0,0.568086 -0.46014,1.028212 -1.02822,1.028212 h -6.16927 c -0.56809,0 -1.02822,-0.460126 -1.02822,-1.028212 v -3.084637 h -12.33854 v 9.253908 c 0,1.64514 1.43949,3.084636 3.08463,3.084636 h 26.73353 c 1.64513,0 3.08463,-1.439496 3.08463,-3.084636 v -9.253908 h -12.33854 z m 9.25391,-13.366758 h -5.14107 v -3.084634 c 0,-1.64514 -1.4395,-3.084637 -3.08464,-3.084637 h -10.28212 c -1.64513,0 -3.08463,1.439497 -3.08463,3.084637 v 3.084634 h -5.14107 c -1.64514,0 -3.08463,1.439497 -3.08463,3.084637 v 5.141061 h 32.90279 v -5.141061 c 0,-1.64514 -1.4395,-3.084637 -3.08463,-3.084637 z m -9.25391,0 h -8.22571 v -2.056423 h 8.22571 z"
+       d="m 256.58461,33.150395 c 0,0.568086 -0.46014,1.028212 -1.02822,1.028212 h -6.16927 c -0.56809,0 -1.02822,-0.460126 -1.02822,-1.028212 v -3.084637 h -12.33854 v 9.253908 c 0,1.64514 1.43949,3.084636 3.08463,3.084636 h 26.73353 c 1.64513,0 3.08463,-1.439496 3.08463,-3.084636 v -9.253908 h -12.33854 z m 9.25391,-13.366758 h -5.14107 v -3.084634 c 0,-1.64514 -1.4395,-3.084637 -3.08464,-3.084637 h -10.28212 c -1.64513,0 -3.08463,1.439497 -3.08463,3.084637 v 3.084634 h -5.14107 c -1.64514,0 -3.08463,1.439497 -3.08463,3.084637 v 5.141061 h 32.90279 v -5.141061 c 0,-1.64514 -1.4395,-3.084637 -3.08463,-3.084637 z m -9.25391,0 h -8.22571 v -2.056423 h 8.22571 z"
        id="path7086" />
   </g>
 </svg>
