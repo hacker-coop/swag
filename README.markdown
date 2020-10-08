@@ -38,6 +38,10 @@ Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i
     + RGB: ``666``
     + CMYK: ``0, 0, 0, 60``
 
+  + Hellgrau:
+    + RGB: ``f2f2f2``
+    + CMYK: ``0, 0, 0, 5``
+
   + Weiß:
     + RGB: ``FFF``
     + CMYK: ``0, 0, 0, 0``
