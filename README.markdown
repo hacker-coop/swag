@@ -11,7 +11,38 @@ Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i
 ![Einhornlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/einhornlogo_wtf.svg.png "Einhornlogo WTF e.G." =256x)
 ![Textlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/textlogo_wtf.svg.png "Textlogo WTF e.G." =256x)
 
-```
+
+ Styleguide:
+------------
+### Font:
+  + [Lato Font](https://www.latofonts.com/de/lato-free-fonts/)
+
+### Farben:
+  + Organe:
+    + RGB: ``F60``
+    + CMYK: ``0, 60, 100, 0``
+
+  + Hellblau:
+    + RGB: ``2a7fff``
+    + CMYK: ``84, 50, 0, 0``
+
+  + Dunkelblau:
+    *nur für den Rand*
+    + RGB: ``003380``
+    + CMYK: ``100, 60, 0, 50``
+
+  + Schwarz:
+    + RGB: ``000``
+    + CMYK: ``0, 0, 0, 100``
+
+  + Grau:
+    + RGB: ``666``
+    + CMYK: ``0, 0, 0, 60``
+
+  + Weiß:
+    + RGB: ``FFF``
+    + CMYK: ``0, 0, 0, 0``
+
 
 **Lizenz:**
 ```
