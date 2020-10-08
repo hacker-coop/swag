@@ -7,9 +7,9 @@ Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i
 
  WTF Logo
 ----------------
-![Webseitenlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/webseite.svg.png "Webseeitenlogo WTF e.G." =256x)
-![Einhornlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/einhornlogo_wtf.svg.png "Einhornlogo WTF e.G." =256x)
-![Textlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/textlogo_wtf.svg.png "Textlogo WTF e.G." =256x)
+![Webseitenlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/webseite.svg.png "Webseeitenlogo WTF e.G." | width=256)
+![Einhornlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/einhornlogo_wtf.svg.png "Einhornlogo WTF e.G." | width=256)
+![Textlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/textlogo_wtf.svg.png "Textlogo WTF e.G." | width=256)
 
 
  Styleguide:
