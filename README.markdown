@@ -4,20 +4,17 @@
 Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i.g.
 (WTF eG)
 
-![Webseitenlogo](webseite.svg.png "WTF e.G.")
 
-### Einhornlogo
+ WTF Logo
+----------------
+![Webseitenlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/webseite.svg.png "Webseeitenlogo WTF e.G." =256x)
+![Einhornlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/einhornlogo_wtf.svg.png "Einhornlogo WTF e.G." =256x)
+![Textlogo](https://git.vebit.xyz/vebit/swag/media/branch/master/textlogo_wtf.svg.png "Textlogo WTF e.G." =256x)
 
-![Einhornlogo](einhornlogo_wtf.svg.png "WTF e.G.")
-
-### Textlogo
-
-![Textlogo](textlogo_wtf.svg.png "WTF e.G.")
-
- Siebdruck
-------------
-```
-Siebdruck motive gibt es im Ordner 'siebdruck/'
 ```
 
-**Lizenz:** `MIT License`
+**Lizenz:**
+```
+Copyright (c) 2020 VEBIT e.V. and Members
+Copyright (c) 2020 L3D <l3d@c3woc.de>
+```
