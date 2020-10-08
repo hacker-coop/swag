@@ -17,7 +17,7 @@ Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i
   + [Lato Font](https://www.latofonts.com/de/lato-free-fonts/)
 
 ### Farben:
-  + Organe:
+  + Orange:
     + RGB: ``F60``
     + CMYK: ``0, 60, 100, 0``
 
