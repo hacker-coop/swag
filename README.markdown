@@ -26,7 +26,7 @@ Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i
     + CMYK: ``84, 50, 0, 0``
 
   + Dunkelblau:
-    *nur für den Rand*
+    *nur für den Rand. Zwingend erforderlich bei hellblau auf Orangen Elementen*
     + RGB: ``003380``
     + CMYK: ``100, 60, 0, 50``
 
