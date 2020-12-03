@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 303.00747 216.00533"
    id="svg66"
-   sodipodi:docname="back.svg"
+   sodipodi:docname="wtf_flyer_back.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs70">
@@ -10796,15 +10796,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2556"
-     inkscape:window-height="1385"
+     inkscape:window-width="3836"
+     inkscape:window-height="2105"
      id="namedview68"
      showgrid="false"
      inkscape:zoom="0.94455256"
      inkscape:cx="611.88894"
      inkscape:cy="360.32391"
-     inkscape:window-x="1920"
-     inkscape:window-y="26"
+     inkscape:window-x="2560"
+     inkscape:window-y="53"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4">
     <sodipodi:guide
@@ -10869,7 +10869,7 @@
        id="guide5992" />
   </sodipodi:namedview>
   <title
-     id="title2">Werkkooperative der Technikfreundinnen e.G.</title>
+     id="title2">Werkkooperative der Technikfreundinnen eG</title>
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -10878,12 +10878,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Werkkooperative der Technikfreundinnen e.G.</dc:title>
+        <dc:title>Werkkooperative der Technikfreundinnen eG</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
         <dc:creator>
           <cc:Agent>
-            <dc:title>L3D</dc:title>
+            <dc:title>L3D &lt;l3d@c3woc.de&gt;</dc:title>
           </cc:Agent>
         </dc:creator>
       </cc:Work>
