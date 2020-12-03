@@ -1,9 +1,10 @@
  Logos und Merch
 =====================
 
-Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen e.G. i.g.
+Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen eG i.g.
 (WTF eG)
 
+Visit [git.vebit.xyz/vebit/swag/](https://git.vebit.xyz/vebit/swag/) for the main version of this git repo. At github is only a mirror that does not contain any PDF Files.
 
  WTF Logo
 ----------------
