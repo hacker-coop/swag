@@ -15,7 +15,7 @@ Visit [git.vebit.xyz/vebit/swag/](https://git.vebit.xyz/vebit/swag/) for the mai
 
 ### Font
 
-[Lato Font](https://www.latofonts.com/de/lato-free-fonts/)
+Lato Font [als TrueType und Webfonts](https://www.latofonts.com/de/lato-free-fonts/) sowie [in LaTeX](https://tug.org/FontCatalogue/lato/)
 
 > The Lato font family is available as a free download under the [SIL Open Font License 1.1](http://scripts.sil.org/OFL). The fonts can be used without any limitations for commercial and non-commercial purposes. They can be also freely modified if the terms of the license are observed.
 
