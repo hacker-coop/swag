@@ -1,15 +1,14 @@
-# Logos und Merch
+ Propagandamaterial, Logos und Merch des VEBIT e.V.
+----------------------------------------------------
+Propaganda, Logo, Grafiken, swag, Merch und mehr des VEBIT e.V. Dem Verein, der die Werkkooperative der Technikfreundinnen eG gründet
 
-Logo, Grafiken, swag und Merch der Werkkooperative der Technikfreundinnen eG
-(WTF eG)
-
-Visit [git.vebit.xyz/vebit/swag/](https://git.vebit.xyz/vebit/swag/) for the main version of this git repo. GitHub only is a mirror that does not contain any PDF files.
+Visit [git.vebit.xyz/vebit/propaganda.git](https://git.vebit.xyz/vebit/propaganda.git) for the main version of this git repo. GitHub only is a mirror that does not contain any PDF files.
 
 ## WTF Logo
 
-<img width="256" src="https://git.vebit.xyz/vebit/swag/media/branch/master/webseite.svg.png" alt="Webseitenlogo WTF e.G." />
-<img width="256" src="https://git.vebit.xyz/vebit/swag/media/branch/master/einhornlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
-<img width="256" src="https://git.vebit.xyz/vebit/swag/media/branch/master/textlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
+<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/webseite.svg.png" alt="Webseitenlogo WTF e.G." />
+<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/einhornlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
+<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/textlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
 
 ## Styleguide:
 
@@ -32,7 +31,7 @@ Lato Font [als TrueType und Webfonts](https://www.latofonts.com/de/lato-free-fon
 | Weiß | `FFF` | `0, 0, 0, 0` |
 
 
-**Lizenz**
+## Lizenz
 
 ```
 Copyright (c) 2020 VEBIT eV & Members
