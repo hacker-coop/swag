@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in *.svg
+for i in logos/*.svg
 do
     echo "Transform Image: $i"
     inkscape \
