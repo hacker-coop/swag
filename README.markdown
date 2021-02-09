@@ -6,9 +6,9 @@ Visit [git.vebit.xyz/vebit/propaganda.git](https://git.vebit.xyz/vebit/propagand
 
 ## WTF Logo
 
-<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/webseite.svg.png" alt="Webseitenlogo WTF e.G." />
-<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/einhornlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
-<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/textlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
+<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/logos/webseite.svg.png" alt="Webseitenlogo WTF e.G." />
+<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/logos/einhornlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
+<img width="256" src="https://git.vebit.xyz/vebit/propaganda/media/branch/master/logos/textlogo_wtf.svg.png" alt="Textlogo WTF e.G." />
 
 ## Styleguide:
 
